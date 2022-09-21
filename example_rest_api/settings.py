@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-hj^cqv4x%m_@5c1y*-^5m)3n%+%2(@12z(o2+8mx_-luhs%q5m
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['example-rest-api-dev.us-west-2.elasticbeanstalk.com/']
+ALLOWED_HOSTS = ['example-rest-api-dev.us-west-2.elasticbeanstalk.com']
 
 
 # Application definition
